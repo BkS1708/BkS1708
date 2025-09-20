@@ -49,9 +49,10 @@ Here are some ideas to get you started:
 🥇 **1st Price at Polarizer 2024**
 - Showcased our Drone with self-built Gimbal and Image Processing Capabilities
 
-📑**Secured 4th Place in World Robotics Olympiad held in Noida, Delhi**
+🎖️ **Secured 4th Place in World Robotics Olympiad held in Noida, Delhi**
 
-📑**Secured 4th Place in Future Engineers Competition held in Ahmedabad, Gujarat**
+🎖️ **Secured 4th Place in Future Engineers Competition held in Ahmedabad, Gujarat**
+
 ---
 
 ### 🌐 Connect with me:
