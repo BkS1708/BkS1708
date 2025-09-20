@@ -72,8 +72,6 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?style=flat&logo=angularjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![bcrypt.js](https://img.shields.io/badge/-bcrypt.js-4484c1?style=flat)
 
 #### 🗃️ Databases  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
