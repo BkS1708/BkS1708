@@ -39,6 +39,19 @@ Here are some ideas to get you started:
 🥇 **Think Award Winner**  
 - Represented 🇮🇳 again in **Australia** at the Asia-Pacific Invitational.
 
+🎖️ **Control Award Winner**
+- Received at India Nationals in Pune
+
+🥇 **First Rank at Eduprime Robotics L1 Competition**
+
+🥇 **1st Price in IEEE Research Paper Competition conducted at MPSTME**
+
+🥇 **1st Price at Polarizer 2024**
+- Showcased our Drone with self-built Gimbal and Image Processing Capabilities
+
+📑**Secured 4th Place in World Robotics Olympiad held in Noida, Delhi**
+
+📑**Secured 4th Place in Future Engineers Competition held in Ahmedabad, Gujarat**
 ---
 
 ### 🌐 Connect with me:
