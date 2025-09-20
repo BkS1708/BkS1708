@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🚀 I'm deeply into robotics and have been lucky to represent India internationally in the field.
 - 🧠 Always exploring new technologies in both hardware & software domains.
 - 💬 Ask me about **robotics**, **object detection**, **website development**, or anything **tech-related**!
-- 📫 Reach out: **[LinkedIn](https://www.linkedin.com/in/your-link)** | **[Instagram](https://www.instagram.com/your-username)** | **[YouTube](https://www.youtube.com/channel/your-channel)**
+- 📫 Reach out: **[LinkedIn](https://www.linkedin.com/in/bhavya-sanghrajka)** | **[Instagram](https://www.instagram.com/your-username)** | **[YouTube](https://www.youtube.com/channel/your-channel)**
 
 ---
 
